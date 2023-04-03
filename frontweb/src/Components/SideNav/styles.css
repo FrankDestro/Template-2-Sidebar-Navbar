@@ -1,0 +1,9 @@
+@import "rsuite/dist/rsuite.css";
+
+.rs-sidenav-body ul a  {
+    text-decoration: none;
+}
+
+.sidenav-main {
+    height: calc(100vh - 60px);
+}
